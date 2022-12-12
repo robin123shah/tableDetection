@@ -3,7 +3,7 @@ import re
 import numpy as np
 import csv
 import pandas as pd
-from tqdm import tqdm
+from stqdm import stqdm
 from PIL import Image
 import cv2
 from time import strftime
